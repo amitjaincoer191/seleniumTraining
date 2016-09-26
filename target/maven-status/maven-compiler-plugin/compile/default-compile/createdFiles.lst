@@ -1,0 +1,6 @@
+com\globallogic\page\HomePage.class
+com\globallogic\page\Search.class
+com\globallogic\page\Browser.class
+com\globallogic\page\BmiCalcPage.class
+com\globallogic\page\SearchResults.class
+com\globallogic\training\ObjectMap.class

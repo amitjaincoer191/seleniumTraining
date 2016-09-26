@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21430" started-at="2016-09-26T07:49:36Z" finished-at="2016-09-26T07:49:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21430" started-at="2016-09-26T07:49:36Z" finished-at="2016-09-26T07:49:57Z">
+      <class name="com.globallogic.training.ActionClassContextMenu">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.globallogic.training.ActionClassContextMenu@79be86]" name="setUp" is-config="true" duration-ms="19590" started-at="2016-09-26T13:19:36Z" finished-at="2016-09-26T13:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testContextMenu()[pri:0, instance:com.globallogic.training.ActionClassContextMenu@79be86]" name="testContextMenu" duration-ms="1271" started-at="2016-09-26T13:19:55Z" finished-at="2016-09-26T13:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContextMenu -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.globallogic.training.ActionClassContextMenu@79be86]" name="tearDown" is-config="true" duration-ms="350" started-at="2016-09-26T13:19:57Z" finished-at="2016-09-26T13:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.globallogic.training.ActionClassContextMenu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
